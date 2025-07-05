@@ -1,5 +1,6 @@
 import rigoImageUrl from "../assets/img/rigo-baby.jpg";
 import useGlobalReducer from "../hooks/useGlobalReducer.jsx";
+import {AddContacto} from "./AddContacto.jsx";
 
 export const Home = () => {
 
